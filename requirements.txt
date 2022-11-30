@@ -1,6 +1,6 @@
-pip install pandas
-pip install numpy
-pip install scikit-learn
-pip install fpdf
-pip install wikipedia
-pip install pickle
+pandas
+numpy
+scikit-learn
+fpdf
+wikipedia
+pickle
