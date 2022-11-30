@@ -1,4 +1,4 @@
 # DiseasePredV2
 
-View Deployed Website(https://dizease.streamlit.app/)
+[View Deployed Website](https://dizease.streamlit.app/)
 
